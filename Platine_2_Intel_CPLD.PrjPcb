@@ -41,12 +41,12 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=BlockChart.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -57,13 +57,30 @@ GenerateClassCluster=0
 DocumentUniqueId=RLHAUWCU
 
 [Document2]
-DocumentPath=Intel_CPLD.SchDoc
+DocumentPath=PowerManager.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=URKNDRTI
+
+[Document3]
+DocumentPath=Intel_CPLD_0.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -73,8 +90,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGRGNTEO
 
-[Document3]
-DocumentPath=Peripherials.SchDoc
+[Document4]
+DocumentPath=Intel_CPLD_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,9 +105,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=OXSSVEVZ
+
+[Document5]
+DocumentPath=Peripherials.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=LGSORRAN
 
-[Document4]
+[Document6]
 DocumentPath=Platine_2_Intel_CPLD.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
