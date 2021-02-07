@@ -74,6 +74,23 @@ GenerateClassCluster=0
 DocumentUniqueId=URKNDRTI
 
 [Document3]
+DocumentPath=Clock.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NKRRFRZA
+
+[Document4]
 DocumentPath=Intel_CPLD_0.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -90,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGRGNTEO
 
-[Document4]
+[Document5]
 DocumentPath=Intel_CPLD_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXSSVEVZ
 
-[Document5]
+[Document6]
 DocumentPath=Peripherials.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +141,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGSORRAN
 
-[Document6]
+[Document7]
+DocumentPath=LevelShifter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VFJWGXBL
+
+[Document8]
 DocumentPath=Platine_2_Intel_CPLD.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
