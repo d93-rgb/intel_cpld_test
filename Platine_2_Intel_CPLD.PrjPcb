@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -57,23 +57,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RLHAUWCU
 
 [Document2]
-DocumentPath=08-Clock.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NKRRFRZA
-
-[Document3]
 DocumentPath=03-Intel_CPLD_0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +73,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGRGNTEO
 
-[Document4]
+[Document3]
 DocumentPath=04-Intel_CPLD_1.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -107,24 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXSSVEVZ
 
-[Document5]
-DocumentPath=06-LevelShifter.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VFJWGXBL
-
-[Document6]
+[Document4]
 DocumentPath=Platine_2_Intel_CPLD.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQPUKTPD
 
-[Document7]
+[Document5]
 DocumentPath=Intel_CPLD_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document6]
 DocumentPath=Intel_CPLD_0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document7]
 DocumentPath=05-Backplane_Connector.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -192,7 +158,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUJGCGCM
 
-[Document10]
+[Document8]
+DocumentPath=06-LevelShifter.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VFJWGXBL
+
+[Document9]
 DocumentPath=07-FPM_Connector.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -208,6 +191,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XGDKJLPW
+
+[Document10]
+DocumentPath=08-Clock.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NKRRFRZA
 
 [Document11]
 DocumentPath=09-Peripherials.SchDoc
@@ -327,6 +327,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document18]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UOUEJNOM
 
 [Configuration1]
 Name=Sources

@@ -1,1 +1,2 @@
-FPM_Signals_CPLD_1=Global_Reset,SEG_A,SEG_B,SEG_C,SEG_D,SEG_DP,SEG_E,SEG_F,SEG_G,Select_0,Select_1,Select_2,Select_3
+FPM_Signals_CPLD_0=DIP_SW_Address_Bit0,DIP_SW_Address_Bit1,DIP_SW_Address_Bit2,DIP_SW_Address_Bit3,DIP_SW_Address_Bit4,DIP_SW_Address_Bit5,DIP_SW_Address_Bit6,DIP_SW_Address_Bit7,Extern_SW,RGB_LED_R,RGB_LED_G,RGB_LED_B
+FPM_Signals_CPLD_1=Global_Reset,SEG_A,SEG_B,SEG_C,SEG_D,SEG_E,SEG_F,SEG_G,SEG_DP,Select_0,Select_1,Select_2,Select_3
