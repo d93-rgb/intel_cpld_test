@@ -1,3 +1,2 @@
 FPM_Signals_CPLD_0=RGB_LED_R,RGB_LED_G,RGB_LED_B,DIP_SW_Address_Bit0,DIP_SW_Address_Bit1,DIP_SW_Address_Bit2,DIP_SW_Address_Bit3,DIP_SW_Address_Bit4,DIP_SW_Address_Bit5,DIP_SW_Address_Bit6,DIP_SW_Address_Bit7
 FPM_Signals_CPLD_1=Global_Reset,SEG_A,SEG_B,SEG_C,SEG_D,SEG_DP,SEG_E,SEG_F,SEG_G,Select_0,Select_1,Select_2,Select_3
-Peripherial_Signals=LED_G0,LED_G1,LED_G2,LED_LS_DIR_0,LED_LS_DIR_1,LED_R0,LED_R1,LED_R2,LED_Y0,LED_Y1,LED_Y2
