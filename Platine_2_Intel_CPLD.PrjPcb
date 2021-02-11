@@ -91,23 +91,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OXSSVEVZ
 
 [Document4]
-DocumentPath=Platine_2_Intel_CPLD.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EQPUKTPD
-
-[Document5]
 DocumentPath=Intel_CPLD_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=Intel_CPLD_0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=05-Backplane_Connector.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -158,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUJGCGCM
 
-[Document8]
+[Document7]
 DocumentPath=06-LevelShifter.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -175,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFJWGXBL
 
-[Document9]
+[Document8]
 DocumentPath=07-FPM_Connector.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -192,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XGDKJLPW
 
-[Document10]
+[Document9]
 DocumentPath=08-Clock.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -209,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKRRFRZA
 
-[Document11]
+[Document10]
 DocumentPath=09-Peripherials.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -226,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEIMWZNT
 
-[Document12]
+[Document11]
 DocumentPath=09-Peripherials.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=01-Header.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -260,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASUVWTXG
 
-[Document14]
+[Document13]
 DocumentPath=10-Mechanic.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -277,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COGHBLNP
 
-[Document15]
+[Document14]
 DocumentPath=03-Intel_CPLD_0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=04-Intel_CPLD_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,7 +294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=07-FPM_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,23 +310,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document18]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UOUEJNOM
 
 [Configuration1]
 Name=Sources
